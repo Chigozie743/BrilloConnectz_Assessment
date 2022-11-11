@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449296497598",
+    "project_id": "brilloconnectz-assessmen-739f4",
+    "storage_bucket": "brilloconnectz-assessmen-739f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449296497598:android:ec60a64aa8587e45e957ef",
+        "android_client_info": {
+          "package_name": "willie.goziechukwu.brillo_connectz_assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449296497598-slqjdh7qpkbmrk5s196v0b3a2m5t31du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "willie.goziechukwu.brillo_connectz_assessment",
+            "certificate_hash": "6b9d7c9aa938844ddb437a7b9f9c5605353e2998"
+          }
+        },
+        {
+          "client_id": "449296497598-11jk9dq0mj715mfh64atr3elqnvmshpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaczehneYy7htKtaYiIpFg5RkSab1cQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449296497598-11jk9dq0mj715mfh64atr3elqnvmshpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
